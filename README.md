@@ -15,17 +15,17 @@
 ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white) [](https://web.facebook.com/akbor.shanto.1/)
  ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?&style=flat-square&logo=github&logoColor=white) [](https://github.com/akborshanto)
 ## Languages and Tools
-**![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=flat-square&logo=html5&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=flat-square&logo=html5&logoColor=white)
  ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=flat-square&logo=css3&logoColor=white)
- ## ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?&style=flat-square&logo=tailwind-css&logoColor=white)
+  ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?&style=flat-square&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?&style=flat-square&logo=bootstrap&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05032.svg?&style=flat-square&logo=git&logoColor=white) 
+ ## ![Git](https://img.shields.io/badge/Git-%23F05032.svg?&style=flat-square&logo=git&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-%2361DAFB.svg?&style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?&style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23000000.svg?&style=flat-square&logo=express&logoColor=white)
+ ## ![Express.js](https://img.shields.io/badge/Express.js-%23000000.svg?&style=flat-square&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?&style=flat-square&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?&style=flat-square&logo=firebase&logoColor=white)
+##![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?&style=flat-square&logo=firebase&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?&style=flat-square&logo=next-dot-js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?&style=flat-square&logo=typescript&logoColor=white)**
 
