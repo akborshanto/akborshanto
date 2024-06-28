@@ -1,9 +1,9 @@
 # Hi  I'm  👋 AKBOR SHANTO
+ ## A passionate MERN DEVELOPER from BANGLADESH
 
 ![Banner](https://img.freepik.com/free-vector/coding_53876-25854.jpg?t=st=1719551462~exp=1719555062~hmac=2d04b17635cb139df51139336948ccfd862f5848ce0e266fadcb106ba3f5096d&w=996)
 
 ## About Me
-A passionate MERN DEVELOPER from BANGLADESH
 
 - 🌱 I’m currently learning [NEXTJS,TYPESCRIPT,SCSS]
 -💬 Talk to me about React, Node, , JavaScript, Freelancing Opportunities etc.
