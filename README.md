@@ -2,12 +2,12 @@
 ![Banner](https://img.freepik.com/free-vector/coding_53876-25854.jpg?t=st=1719551462~exp=1719555062~hmac=2d04b17635cb139df51139336948ccfd862f5848ce0e266fadcb106ba3f5096d&w=996)
 
 <h1 align="center" > Hi  I'm  👋 AKBOR SHANTO</h1>
-<h3 align="center">A passionate WEB DEVELOPER from BANGLADESH👋</h3>
+<h3 align="center">A passionate WEB DEVELOPER from BANGLADESH😉</h3>
 ## About Me
 
 - 🌱 I’m currently learning [NEXTJS,TYPESCRIPT,SCSS]
 -💬 Talk to me about React, Node, , JavaScript, Freelancing Opportunities etc.
-- 📫 How to reach me: [mailto:akborshanto2002@gmail.com]
+- 📫 How to reach me: [akborshanto2002@gmail.com]
 
 ## CONTACT WITH ME 👁🦾
 
@@ -19,12 +19,14 @@
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=flat-square&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?&style=flat-square&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?&style=flat-square&logo=bootstrap&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?&style=flat-square&logo=firebase&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?&style=flat-square&logo=next-dot-js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?&style=flat-square&logo=typescript&logoColor=white)**
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?&style=flat-square&logo=git&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?&style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?&style=flat-square&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-%23000000.svg?&style=flat-square&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?&style=flat-square&logo=mongodb&logoColor=white)
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?&style=flat-square&logo=react&logoColor=black)
-![Git](https://img.shields.io/badge/Git-%23F05032.svg?&style=flat-square&logo=git&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?&style=flat-square&logo=firebase&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?&style=flat-square&logo=next-dot-js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?&style=flat-square&logo=typescript&logoColor=white)**
+
+
