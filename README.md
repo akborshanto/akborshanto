@@ -1,8 +1,8 @@
-# Hi  I'm  👋 AKBOR SHANTO
 
-<h1 align="center">A passionate  DEVELOPER from BANGLADESH👋</h1>
 ![Banner](https://img.freepik.com/free-vector/coding_53876-25854.jpg?t=st=1719551462~exp=1719555062~hmac=2d04b17635cb139df51139336948ccfd862f5848ce0e266fadcb106ba3f5096d&w=996)
 
+<h1 align="center" > Hi  I'm  👋 AKBOR SHANTO</h1>
+<h3 align="center">A passionate <h2 style="color:#007ACC">WEB DEVELOPER</h2> from BANGLADESH👋</h3>
 ## About Me
 
 - 🌱 I’m currently learning [NEXTJS,TYPESCRIPT,SCSS]
