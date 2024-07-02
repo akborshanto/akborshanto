@@ -27,7 +27,8 @@
 ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white) [](https://web.facebook.com/akbor.shanto.1/)
  ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?&style=flat-square&logo=github&logoColor=white) [](https://github.com/akborshanto)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
+<p align="center">[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
+</p>
 
  
 #Languages and Tools
