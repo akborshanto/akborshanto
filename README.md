@@ -11,7 +11,7 @@
 
 
 
-<h2 align="left">👨🏻‍💻 About Me:</h2>
+<h2 align="left">👨🏻‍💻 About Me :</h2>
 
 - :computer: I'm a FrontEnd Web Developer, currently exploring Next JS TYPESCRIPT
 - :hourglass_flowing_sand: Exploring Google Cloud & Microsoft Azure
