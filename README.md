@@ -77,14 +77,12 @@
         <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
     </a>
     <a href="https://mongoosejs.com/" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongoose" width="40" height="40"/> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongoose/mongoose-original-wordmark.svg" alt="mongoose" width="40" height="40"/> 
     </a>
     <a href="https://redux.js.org/" target="_blank"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
     </a>
-    <a href="https://github.com/colinhacks/zod" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/rainbow-me/rainbow-icons/main/icons/zod.svg" alt="zod" width="40" height="40"/> 
-    </a>
+  
     <a href="https://www.typescriptlang.org/" target="_blank"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
     </a>
