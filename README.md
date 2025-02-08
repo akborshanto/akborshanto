@@ -35,14 +35,9 @@
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=MD-HABIB-ULLA&theme=gotham&no-frame=true&margin-w=4" alt="GitHub Trophies" />
 </div>
-## CONTACT WITH ME 👁🦾
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white) [](https://www.linkedin.com/in/akborshanto/)
-![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white) [](https://web.facebook.com/akbor.shanto.1/)
- ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?&style=flat-square&logo=github&logoColor=white) [](https://github.com/akborshanto)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=akborshanto&theme=dark)](https://git.io/streak-stats)
+
 #Languages and Tools
-
 
 <p align="left">
     <a href="https://www.w3.org/html/" target="_blank"> 
