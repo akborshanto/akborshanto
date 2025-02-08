@@ -23,7 +23,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AKBORSHANTO &theme=gotham&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AKBORSHANTO&theme=gotham&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
