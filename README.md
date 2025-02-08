@@ -20,7 +20,21 @@
 - :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge"
 - :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking<br>
 
+## 📊 GitHub Stats
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MD-HABIB-ULLA&theme=gotham&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MD-HABIB-ULLA&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+</div>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MD-HABIB-ULLA&theme=gotham&no-frame=true&margin-w=4" alt="GitHub Trophies" />
+</div>
 ## CONTACT WITH ME 👁🦾
 
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white) [](https://www.linkedin.com/in/akborshanto/)
