@@ -1,4 +1,4 @@
-<h2 align="center">
+ <h2 align="center">
  <abc>
   <br>Hi there! I`m   AKBOR SHANTO <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30" ><br>
   
@@ -7,10 +7,6 @@
  </abc>
  <h3 align="center">A passionate FrontEnd  WEB DEVELOPER from  BANGLADESH😉</h3>
 </h2> 
-
-
-
-
 <h2 align="left">👨🏻‍💻 About Me :</h2>
 
 - :computer: I'm  a FrontEnd Web Developer, currently exploring Next JS TYPESCRIPT
