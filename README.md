@@ -26,12 +26,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKBORSHANTO&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </div>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MD-HABIB-ULLA&theme=gotham&no-frame=true&margin-w=4" alt="GitHub Trophies" />
-</div>
-
 
 #Languages and Tools
 
