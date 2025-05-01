@@ -16,15 +16,10 @@
 - :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge"
 - :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking<br>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AKBORSHANTO&theme=gotham&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKBORSHANTO&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-</div>
+## GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?akbor shanto=your-akborshanto&show_icons=true&theme=radical" />
+</p>
 
 
 #Languages and Tools
