@@ -9,7 +9,7 @@
 </h2> 
 <h2 align="left">👨🏻‍💻 About Me :</h2>
 
-- :computer: I'm  a FrontEnd Web Developer, currently exploring Next JS TYPESCRIPT
+- :computer: I'm  a Mern Stack Web Developer, currently exploring Next JS TYPESCRIPT
 - :hourglass_flowing_sand: Exploring Google Cloud & Microsoft Azure
 - :rocket: Always ready to collaborate for Dev Experiments
 - :man_technologist: Former Project Lead Intern at GirlScript Foundation
