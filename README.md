@@ -5,7 +5,7 @@
   <br>
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
  </abc>
- <h3 align="center">A passionate FrontEnd  WEB DEVELOPER from  BANGLADESH😉</h3>
+ <h3 align="center">A passionate Mern Stack WEB DEVELOPER from  BANGLADESH😉</h3>
 </h2> 
 <h2 align="left">👨🏻‍💻 About Me :</h2>
 
